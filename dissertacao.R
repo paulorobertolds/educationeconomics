@@ -51,3 +51,5 @@ summary(res_twfe)
 # Plot the two TWFE results
 iplot(res_twfe)
 
+https://docs.google.com/spreadsheets/d/1y79jJyIc0TFAob4qipMketKjixuXub6T/edit?usp=drive_link&ouid=105674475394683857648&rtpof=true&sd=true
+
